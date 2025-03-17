@@ -1,2 +1,3 @@
-config SHEILD_TEST
-    def_bool $(sheilds_list_contains, Test)
+# No whitespace after the comma or in your keyboard name!
+config SHIELD_TEST
+    def_bool $(shields_list_contains,Test)
