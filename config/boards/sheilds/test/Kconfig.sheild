@@ -1,0 +1,2 @@
+config SHEILD_TEST
+    def_bool $(sheilds_list_contains, Test)
