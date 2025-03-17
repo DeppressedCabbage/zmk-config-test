@@ -14,5 +14,6 @@ manifest:
       name: zmk-config-test
       remote: zmk-config-test
       revision: master
+      import: boards/shields/Test
   self:
     path: config
