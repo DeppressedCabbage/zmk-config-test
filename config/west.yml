@@ -13,5 +13,6 @@ manifest:
       import: app/west.yml
       name: zmk-config-test
       remote: zmk-config-test
+      revision: master
   self:
     path: config
